@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
+title: Curriculum Vitae (CV)
 description: Mohammad Rezaalipour
 cv_pdf: example_pdf.pdf
 nav: true
