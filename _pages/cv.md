@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-[Open CV as PDF]({{ site.baseurl }}/files/cv_moe.pdf)
+<!-- [Open CV as PDF]({{ site.baseurl }}/files/cv_moe.pdf) -->
 
 ## Education
 * PhD in Informatics, Università della Svizzera italiana, Switzerland, Sept. 2019 - Jun. 2024
@@ -16,6 +16,9 @@ nav_order: 1
 * Bachelor's degree in Robotics Engineering, Shahrood University of Technology, Iran, Sept. 2004 - Jul. 2009
 
 ## Work Experience
+* **Postdoctoral Researcher**, University of Passau, Germany (Aug. 2024 - Present)
+  * Researching software analysis.
+
 * **Research Assistant**, Università della Svizzera italiana, Switzerland (Sept. 2019 - Jun. 2024)
   * Researched debugging techniques for data science programs.
 

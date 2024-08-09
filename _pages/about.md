@@ -19,7 +19,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Mohammad Rezaalipour, also known as Moe. I recently completed my PhD in Informatics on June 13, 2024, at [USI Università della Svizzera italiana](https://www.usi.ch/en), located in the beautiful city of Lugano in Switzerland. You can find [my CV on this page](/cv/).
+My name is Mohammad Rezaalipour, also known as Moe. 
+I am currently a Postdoctoral Researcher, 
+working under the supervision of Professor 
+Christian Hammer at the 
+[University of Passau](https://www.uni-passau.de/en/), 
+located in the picturesque City of Three Rivers.
+
+Prior to my move to Passau, I completed my PhD in Informatics at [USI Università della Svizzera italiana](https://www.usi.ch/en) in beautiful Lugano. You can find [my CV on this page](/cv/).
 
 I am particularly interested in software testing and analysis, fault localization, automated program repair, and developing software analysis tools. Notably, as part of my PhD research, I developed [FauxPy](https://github.com/atom-sw/fauxpy), which, to the best of my knowledge, is the only multi-family fault localization tool for Python that is available as open-source software.
 
