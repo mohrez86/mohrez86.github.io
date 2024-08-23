@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: <strong>PhD in Informatics</strong>
+subtitle: <strong>Postdoctoral Researcher, Chair of Software Engineering I</strong>
 
 profile:
   align: right
@@ -19,29 +19,23 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Mohammad Rezaalipour, also known as Moe. 
-I am currently a Postdoctoral Researcher, 
-working under the supervision of Professor 
-Christian Hammer at the 
-[University of Passau](https://www.uni-passau.de/en/), 
-located in the picturesque City of Three Rivers.
+## About Me
+
+My name is Mohammad Rezaalipour, also known as Moe. I am a Postdoctoral Researcher at the Chair of Software Engineering I, within the Faculty of Computer Science and Mathematics at the [University of Passau](https://www.uni-passau.de/en/), located in the picturesque City of Three Rivers. I am working under the supervision of Professor Christian Hammer.
+
+## Education
 
 Prior to my move to Passau, I completed my PhD in Informatics at [USI Università della Svizzera italiana](https://www.usi.ch/en) in beautiful Lugano. You can find [my CV on this page](/cv/).
 
-I am particularly interested in software testing and analysis, fault localization, automated program repair, and developing software analysis tools. Notably, as part of my PhD research, I developed [FauxPy](https://github.com/atom-sw/fauxpy), which, to the best of my knowledge, is the only multi-family fault localization tool for Python that is available as open-source software.
+## Research Interests
 
-I am mostly active on
-[LinkedIn](https://www.linkedin.com/in/m-rezaalipour) 
-and use
-[ResearchGate](https://www.researchgate.net/profile/Mohammad-Rezaalipour-2),
-[Google Scholar](https://scholar.google.com/citations?user=CuQ9I_YAAAAJ),
-and 
-[GitHub](https://github.com/mohrez86)
-for maintaining and sharing my academic and professional activities.
-Feel free to reach out to me through any of these platforms or via **email**.
+I am particularly interested in software testing and analysis, fault localization, automated program repair, and developing software analysis tools. Notably, as part of my PhD research, I developed [FauxPy](https://github.com/atom-sw/fauxpy), which, to the best of my knowledge, is the only multi-family fault localization tool for Python that is available as open-source software. I also developed [aNNoTest](https://github.com/atom-sw/annotest), an annotation-based test generation tool for neural network programs.
+
+## Contact
+
+I am mostly active on [LinkedIn](https://www.linkedin.com/in/m-rezaalipour) and use [ResearchGate](https://www.researchgate.net/profile/Mohammad-Rezaalipour-2), [Google Scholar](https://scholar.google.com/citations?user=CuQ9I_YAAAAJ), and [GitHub](https://github.com/mohrez86) for maintaining and sharing my academic and professional activities. Feel free to reach out to me through any of these platforms or via **email**.
 
 **Email:** mohammad [dot] rezaalipour [at] uni-passau [dot] de
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
