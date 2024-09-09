@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: <strong>Postdoctoral Researcher, Chair of Software Engineering I</strong>
+subtitle: <strong>Postdoctoral Researcher, Chair of Software Engineering I, University of Passau</strong>
 
 profile:
   align: right
@@ -21,11 +21,20 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-My name is Mohammad Rezaalipour, also known as Moe. I am a Postdoctoral Researcher at the Chair of Software Engineering I, within the Faculty of Computer Science and Mathematics at the [University of Passau](https://www.uni-passau.de/en/), located in the picturesque City of Three Rivers. I am working under the supervision of Professor Christian Hammer.
+My name is Mohammad Rezaalipour, also known as Moe. 
+I am a Postdoctoral Researcher with the 
+[Chair of Software Engineering I](https://www.fim.uni-passau.de/en/software-engineering-i),
+at the *University of Passau*,
+located in the picturesque City of Three Rivers.
+I am working under the supervision of 
+[Professor Christian Hammer](https://www.fim.uni-passau.de/en/software-engineering-i/translate-to-englisch-lehrstuhlteam/translate-to-englisch-lehrstuhlinhaber?config_id=a8d16e612076595e5b55aa227262539d&group_id=&module=TemplatePersondetails&range_id=d33789fe6848842635609cb3c3a3ff66&target=289537&username=hammer50&cHash=55277529dcf6fec1edb321830f19affd).
+You can find [my CV on this page](/cv/).
 
 ## Education
 
-Prior to my move to Passau, I completed my PhD in Informatics at [USI Università della Svizzera italiana](https://www.usi.ch/en) in beautiful Lugano. You can find [my CV on this page](/cv/).
+Before moving to Passau, I completed my PhD in Informatics under the supervision of 
+[Professor Carlo Alberto Furia](https://bugcounting.net/) at *Università della Svizzera italiana*
+in beautiful Lugano.
 
 ## Research Interests
 
