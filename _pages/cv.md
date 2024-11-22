@@ -5,7 +5,7 @@ title: curriculum vitae (CV)
 description: Mohammad Rezaalipour
 cv_pdf: example_pdf.pdf
 nav: true
-nav_order: 3
+nav_order: 10
 ---
 
 <!-- [Open CV as PDF]({{ site.baseurl }}/files/cv_moe.pdf) -->
