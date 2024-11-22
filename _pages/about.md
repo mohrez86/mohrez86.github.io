@@ -40,6 +40,18 @@ in beautiful Lugano.
 
 I am particularly interested in software testing and analysis, fault localization, automated program repair, and developing software analysis tools. Notably, as part of my PhD research, I developed [FauxPy](https://github.com/atom-sw/fauxpy), which, to the best of my knowledge, is the only multi-family fault localization tool for Python that is available as open-source software. I also developed [aNNoTest](https://github.com/atom-sw/annotest), an annotation-based test generation tool for neural network programs.
 
+## Selected Publications
+
+* **EMSE:** Mohammad Rezaalipour, Carlo A. Furia. (2024). "An Empirical Study of Fault Localization in Python Programs." [https://doi.org/10.1007/s10664-024-10475-3](https://doi.org/10.1007/s10664-024-10475-3).
+
+* **ICSME:** Mohammad Rezaalipour, Carlo A. Furia. "aNNoTest: An Annotation-based Test Generation Tool for Neural Network Programs." [https://doi.org/10.1109/ICSME58846.2023.00075](https://doi.org/10.1109/ICSME58846.2023.00075).
+
+* **JSS:** Mohammad Rezaalipour, Carlo A. Furia. "An annotation-based approach for finding bugs in neural network programs." [https://doi.org/10.1016/j.jss.2023.111669](https://doi.org/10.1016/j.jss.2023.111669).
+
+* **TC:** Morteza Rezaalipour, Mohammad Rezaalipour, Masoud Dehyadegari, Mahdi Nazm Bojnordi. "AxMAP: Making Approximate Adders Aware of Input Patterns." [https://doi.org/10.1109/TC.2020.2968905](https://doi.org/10.1109/TC.2020.2968905).
+
+* **FSEN:** Babak Bagheri, Mohammad Rezaalipour, Mojtaba Vahidi-Asl. "An Approach to Generate Effective Fault Localization Methods for Programs." [https://doi.org/10.1007/978-3-030-31517-7_17](https://doi.org/10.1007/978-3-030-31517-7_17).
+
 ## Contact
 
 I am mostly active on [LinkedIn](https://www.linkedin.com/in/m-rezaalipour) and use [ResearchGate](https://www.researchgate.net/profile/Mohammad-Rezaalipour-2), [Google Scholar](https://scholar.google.com/citations?user=CuQ9I_YAAAAJ), and [GitHub](https://github.com/mohrez86) for maintaining and sharing my academic and professional activities. Feel free to reach out to me through any of these platforms or via **email**.
