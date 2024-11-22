@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /cv/
-title: Curriculum Vitae (CV)
+title: curriculum vitae (CV)
 description: Mohammad Rezaalipour
 cv_pdf: example_pdf.pdf
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 <!-- [Open CV as PDF]({{ site.baseurl }}/files/cv_moe.pdf) -->
