@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 - **Co-Lecturer**: Compiler Construction Lab (Aug. 2024 – Present), University of Passau, Germany  
