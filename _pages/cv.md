@@ -4,7 +4,7 @@ permalink: /cv/
 title: curriculum vitae (CV)
 description: Mohammad Rezaalipour
 cv_pdf: example_pdf.pdf
-nav: true
+nav: false
 nav_order: 10
 ---
 
