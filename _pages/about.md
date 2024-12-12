@@ -44,7 +44,20 @@ I am particularly interested in:
 - Automated Program Repair
   
 My vision is to implement the methods and techniques I propose in my research as software tools.
-Notably, as part of my PhD research, I developed [FauxPy](https://github.com/atom-sw/fauxpy), which, to the best of my knowledge, is the only multi-family fault localization tool for Python available as open-source software. I also developed [aNNoTest](https://github.com/atom-sw/annotest), an annotation-based test generation tool for neural network programs.
+Notably, as part of my PhD research, I developed [FauxPy](https://github.com/atom-sw/fauxpy), which, to the best of my knowledge, is the only multi-family fault localization tool for Python that is available as open-source software.
+FauxPy
+has been tested with 135 real-world bugs across 
+13 widely used Python projects such as
+[Keras](https://github.com/keras-team/keras) and 
+[Pandas](https://github.com/pandas-dev/pandas).
+I also developed [aNNoTest](https://github.com/atom-sw/annotest), an annotation-based test generation tool for neural network programs.
+aNNoTest, has been tested 
+with 19 real-world 
+neural network programs; it has found [one 
+bug](https://github.com/pytorch/vision/issues/5209) 
+and [one documentation
+inconsistency](https://github.com/pytorch/vision/issues/6607)
+in [Vision](https://github.com/pytorch/vision), PyTorch's machine vision library.
 
 
 ## Selected Publications
