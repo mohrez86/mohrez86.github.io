@@ -79,7 +79,7 @@ Mohammad Rezaalipour and Carlo A. Furia
 arXiv Technical Report  
 2024
 
-- [arXiv](https://arxiv.org/abs/2404.18596) \| [FauxPy Documentation](https://fauxpy.readthedocs.io)
+- [arXiv](https://arxiv.org/abs/2404.18596) \|  [FauxPy GitHub](https://github.com/atom-sw/fauxpy) \| [FauxPy Documentation](https://fauxpy.readthedocs.io) \| [YouTube](https://www.youtube.com/watch?v=6ooPPiwd79g)
 
 **Abstract:**
 
