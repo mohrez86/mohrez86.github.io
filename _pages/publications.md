@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-##### Journal Articles
+#### Journal Articles
 
 - [An empirical study of fault localization in Python programs](#an-empirical-study-of-fault-localization-in-python-programs)
 - [Doctor Code: A machine learning-based approach to program repair](#doctor-code-a-machine-learning-based-approach-to-program-repair)
@@ -15,13 +15,13 @@ nav_order: 2
 - [AxMAP: Making Approximate Adders Aware of Input Patterns](#axmap-making-approximate-adders-aware-of-input-patterns)
 - [IDrAx: A tool-chain for designing efficient approximate adders](#idrax-a-tool-chain-for-designing-efficient-approximate-adders)
 
-##### Conference Proceedings
+#### Conference Proceedings
 
 - [aNNoTest: An Annotation-based Test Generation Tool for Neural Network Programs](#annotest-an-annotation-based-test-generation-tool-for-neural-network-programs)
 - [An Approach to Generate Effective Fault Localization Methods for Programs](#an-approach-to-generate-effective-fault-localization-methods-for-programs)
 - [Arselda: An Improvement on Adaptive Random Testing by Adaptive Region Selection](#arselda-an-improvement-on-adaptive-random-testing-by-adaptive-region-selection)
 
-##### Technical Reports
+#### Technical Reports
 
 - [FauxPy: A Fault Localization Tool for Python](#fauxpy-a-fault-localization-tool-for-python)
 
@@ -35,7 +35,7 @@ nav_order: 2
 
 ---
 
-#### An empirical study of fault localization in Python programs
+### An empirical study of fault localization in Python programs
 
 Mohammad Rezaalipour and Carlo A. Furia  
 Empirical Software Engineering  
@@ -47,13 +47,13 @@ Empirical Software Engineering
 
 Despite its massive popularity as a programming language, especially in novel domains like data science programs, there is comparatively little research about fault localization that targets Python. Even though it is plausible that several findings about programming languages like C/C++ and Java—the most common choices for fault localization research—carry over to other languages, whether the dynamic nature of Python and how the language is used in practice affect the capabilities of classic fault localization approaches remain open questions to investigate.
 
-This paper is the first multi-family large-scale empirical study of fault localization on real-world Python programs and faults. Using Zou et al.’s recent large-scale empirical study of fault localization in Java (Zou et al. 2021) as the basis of our study, we investigated the effectiveness (i.e., localization accuracy), efficiency (i.e., runtime performance), and other features (e.g., different entity granularities) of seven well-known fault-localization techniques in four families (spectrum-based, mutation-based, predicate switching, and stack-trace based) on 135 faults from 13 open-source Python projects from the BugsInPy curated collection (Widyasari et al. 2020).
+This paper is the first multi-family large-scale empirical study of fault localization on real-world Python programs and faults. Using Zou et al.’s recent large-scale empirical study of fault localization in Java [(Zou et al. 2021)](https://doi.org/10.1109/TSE.2019.2892102) as the basis of our study, we investigated the effectiveness (i.e., localization accuracy), efficiency (i.e., runtime performance), and other features (e.g., different entity granularities) of seven well-known fault-localization techniques in four families (spectrum-based, mutation-based, predicate switching, and stack-trace based) on 135 faults from 13 open-source Python projects from the BugsInPy curated collection [(Widyasari et al. 2020)](https://doi.org/10.1145/3368089.3417943).
 
 The results replicate for Python several results known about Java, and shed light on whether Python’s peculiarities affect the capabilities of fault localization. The replication package that accompanies this paper includes detailed data about our experiments, as well as the tool FauxPy that we implemented to conduct the study.
 
 ---
 
-#### Test case generation and fault localization for data science programs
+### Test case generation and fault localization for data science programs
 
 Mohammad Rezaalipour  
 PhD Thesis, Università della Svizzera italiana  
@@ -73,7 +73,7 @@ Along with supporting the domain with the tools and techniques we developed, we 
 
 ---
 
-#### FauxPy: A Fault Localization Tool for Python
+### FauxPy: A Fault Localization Tool for Python
 
 Mohammad Rezaalipour and Carlo A. Furia  
 arXiv Technical Report  
@@ -87,7 +87,7 @@ This paper presents FauxPy, a fault localization tool for Python programs. FauxP
 
 ---
 
-#### Doctor Code: A machine learning-based approach to program repair
+### Doctor Code: A machine learning-based approach to program repair
 
 Sharmin Moosavi, Mojtaba Vahidi-Asl, Hassan Haghighi, and Mohammad Rezaalipour  
 Scientia Iranica  
@@ -103,7 +103,7 @@ Comparing Doctor Code with RAPR as the baseline indicates that using machine lea
 
 ---
 
-#### aNNoTest: An Annotation-based Test Generation Tool for Neural Network Programs
+### aNNoTest: An Annotation-based Test Generation Tool for Neural Network Programs
 
 Mohammad Rezaalipour and Carlo A. Furia  
 Proceedings of the 39th IEEE International Conference on Software Maintenance and Evolution (ICSME)  
@@ -117,7 +117,7 @@ Even though neural network (NN) programs are often written in Python, using gene
 
 ---
 
-#### An annotation-based approach for finding bugs in neural network programs
+### An annotation-based approach for finding bugs in neural network programs
 
 Mohammad Rezaalipour and Carlo A. Furia  
 Journal of Systems and Software  
@@ -131,11 +131,11 @@ As neural networks are increasingly included as core components of safety–crit
 
 This paper presents aNNoTest: an approach to generating test inputs for neural-network programs. A fundamental challenge is that the dynamically-typed languages (e.g., Python) commonly used to program neural networks cannot express detailed constraints about valid function inputs (e.g., matrices with certain dimensions). Without knowing these constraints, automated test-case generation is prone to producing invalid inputs, which trigger spurious failures and are useless for identifying real bugs. To address this problem, we introduce a simple annotation language tailored for concisely expressing valid function inputs in neural-network programs. aNNoTest takes as input an annotated program, and uses property-based testing to generate random inputs that satisfy the validity constraints. In the paper, we also outline guidelines that simplify writing aNNoTest annotations.
 
-We evaluated aNNoTest on 19 neural-network programs from Islam et al’s survey. Islam et al. (2019), which we manually annotated following our guidelines — producing 6 annotations per tested function on average. aNNoTest automatically generated test inputs that revealed 94 bugs, including 63 bugs that the survey reported for these projects. These results suggest that aNNoTest can be a valuable approach to finding widespread bugs in real-world neural-network programs.
+We evaluated aNNoTest on 19 neural-network programs from Islam et al’s survey [(Islam et al. 2019)](https://doi.org/10.1145/3338906.3338955), which we manually annotated following our guidelines—producing 6 annotations per tested function on average. aNNoTest automatically generated test inputs that revealed 94 bugs, including 63 bugs that the survey reported for these projects. These results suggest that aNNoTest can be a valuable approach to finding widespread bugs in real-world neural-network programs.
 
 ---
 
-#### AxMAP: Making Approximate Adders Aware of Input Patterns
+### AxMAP: Making Approximate Adders Aware of Input Patterns
 
 Morteza Rezaalipour, Mohammad Rezaalipour, Masoud Dehyadegari, and Mahdi Nazm Bojnordi  
 IEEE Transactions on Computers  
@@ -149,7 +149,7 @@ Making approximate computing specific to user requirements is crucial to system 
 
 ---
 
-#### IDrAx: A tool-chain for designing efficient approximate adders
+### IDrAx: A tool-chain for designing efficient approximate adders
 
 Morteza Rezaalipour, Mohammad Rezaalipour, Sarvenaz Tajasob, and Masoud Dehyadegari  
 Microelectronics Journal  
@@ -163,7 +163,7 @@ As transistors shrink down, improving the energy-efficiency of nanometer ICs has
 
 ---
 
-#### An Approach to Generate Effective Fault Localization Methods for Programs
+### An Approach to Generate Effective Fault Localization Methods for Programs
 
 Babak Bagheri, Mohammad Rezaalipour, and Mojtaba Vahidi-Asl  
 Fundamentals of Software Engineering  
@@ -179,7 +179,7 @@ In this paper, we have proposed an approach which combines 40 different ranking 
 
 ---
 
-#### Arselda: An Improvement on Adaptive Random Testing by Adaptive Region Selection
+### Arselda: An Improvement on Adaptive Random Testing by Adaptive Region Selection
 
 Mohammad Rezaalipour, Lida Talebsafa, and Mojtaba Vahidi-Asl  
 8th International Conference on Computer and Knowledge Engineering (ICCKE)  
