@@ -7,7 +7,8 @@ nav: true
 nav_order: 4
 ---
 
-<!-- ## Research Projects -->
+
+# Projects
 
 This page highlights my research-driven projects. I frequently update it with
 relevant materials as my work progresses.

@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
+# Service
+
+The following is a list of my contributions to the academic community categorized by role and in reverese chronological order.
+
 #### Artifact Evaluation Committee
 
 - [OOPSLA 2025](https://2025.splashcon.org/track/splash-2025-oopsla-artifacts)

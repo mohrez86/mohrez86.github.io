@@ -7,6 +7,12 @@ nav: true
 nav_order: 2
 ---
 
+# Publications
+
+The following is a list of my publications categorized in reverse chronological order.
+In the details section, you can also find additional materials for each study,
+such as replication packages or tools I developed as part of each study.
+
 #### Journal Articles
 
 - [An empirical study of fault localization in Python programs](#an-empirical-study-of-fault-localization-in-python-programs)
@@ -25,7 +31,7 @@ nav_order: 2
 
 - [FauxPy: A Fault Localization Tool for Python](#fauxpy-a-fault-localization-tool-for-python)
 
-##### PhD Thesis
+#### PhD Thesis
 
 - [Test case generation and fault localization for data science programs](#test-case-generation-and-fault-localization-for-data-science-programs)
 

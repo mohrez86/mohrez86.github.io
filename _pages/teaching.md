@@ -7,6 +7,10 @@ nav: true
 nav_order: 3
 ---
 
+# Teaching
+
+This page lists the courses I was involved in teaching, both as a teaching assistant and as a lecturer.
+
 - **Co-Lecturer**: Compiler Construction Lab (Aug. 2024 – Present), University of Passau, Germany  
 - **Teaching Assistant**: Programming Fundamentals 1 (Fall 2023/2024), USI Lugano, Switzerland  
 - **Teaching Assistant**: Programming Fundamentals 1 (Fall 2022/2023), USI Lugano, Switzerland  
