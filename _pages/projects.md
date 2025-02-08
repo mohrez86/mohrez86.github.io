@@ -16,6 +16,8 @@ relevant materials as my work progresses.
 - [Project: FauxPy](#project-fauxpy)
 - [Project: aNNoTest](#project-annotest)
 
+---
+
 ## Project: FauxPy
 
 FauxPy is the first multi-family fault localization tool for Python programs,
@@ -69,6 +71,8 @@ Below is a complete list of projects FauxPy has been tested with:
    *Mohammad Rezaalipour and Carlo A. Furia*
    arXiv Technical Report, 2024
    - arXiv: [2404.18596](https://arxiv.org/abs/2404.18596)
+
+---
 
 ## Project: aNNoTest
 
