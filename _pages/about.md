@@ -19,6 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+---
+
 ## About Me
 
 My name is Mohammad Rezaalipour, also known as Moe. 
@@ -30,11 +32,15 @@ I am working under the supervision of
 [Professor Christian Hammer](https://www.fim.uni-passau.de/software-engineering-i/lehrstuhlteam/lehrstuhlinhaber?config_id=a8d16e612076595e5b55aa227262539d&group_id=&module=TemplatePersondetails&range_id=d33789fe6848842635609cb3c3a3ff66&target=289537&username=hammer50&cHash=55277529dcf6fec1edb321830f19affd).
 <!-- You can find [my CV on this page](/cv/). -->
 
+---
+
 ## Contact
 
 I am mostly active on [LinkedIn](https://www.linkedin.com/in/m-rezaalipour) and use [ResearchGate](https://www.researchgate.net/profile/Mohammad-Rezaalipour-2), [Google Scholar](https://scholar.google.com/citations?user=CuQ9I_YAAAAJ), and [GitHub](https://github.com/mohrez86) for maintaining and sharing my academic and professional activities. Feel free to reach out to me through any of these platforms or via **email**.
 
 **Email:** mohammad [dot] rezaalipour [at] uni-passau [dot] de
+
+---
 
 ## Research Interests
 
@@ -59,6 +65,7 @@ and [one documentation
 inconsistency](https://github.com/pytorch/vision/issues/6607)
 in [Vision](https://github.com/pytorch/vision), PyTorch's machine vision library.
 
+---
 
 ## Selected Publications
 
@@ -72,6 +79,8 @@ in [Vision](https://github.com/pytorch/vision), PyTorch's machine vision library
 
 * **FSEN:** Babak Bagheri, Mohammad Rezaalipour, Mojtaba Vahidi-Asl. (2019). "An Approach to Generate Effective Fault Localization Methods for Programs." [https://doi.org/10.1007/978-3-030-31517-7_17](https://doi.org/10.1007/978-3-030-31517-7_17).
 
+---
+
 ## Education
 
 I completed my PhD in Informatics under the supervision of 
@@ -80,8 +89,4 @@ in beautiful Lugano.
 I also hold a Master's degree in Software Engineering from [Shahid Beheshti University](https://en.sbu.ac.ir/) in Tehran, the vibrant and historic capital of Iran. 
 My Bachelor's degree is in Robotics Engineering from [Shahrood University of Technology](https://shahroodut.ac.ir/en/), located in the culturally rich city of Shahrood.
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+---

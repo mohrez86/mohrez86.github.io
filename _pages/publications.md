@@ -13,6 +13,8 @@ The following is a list of my publications categorized in reverse chronological 
 In the details section, you can also find additional materials for each study,
 such as replication packages or tools I developed as part of each study.
 
+---
+
 #### Journal Articles
 
 - [An empirical study of fault localization in Python programs](#an-empirical-study-of-fault-localization-in-python-programs)
