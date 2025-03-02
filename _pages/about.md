@@ -83,10 +83,12 @@ in [Vision](https://github.com/pytorch/vision), PyTorch's machine vision library
 
 ## Education
 
-I completed my PhD in Informatics under the supervision of 
-[Professor Carlo Alberto Furia](https://bugcounting.net/) at *Università della Svizzera italiana*
-in beautiful Lugano.
-I also hold a Master's degree in Software Engineering from [Shahid Beheshti University](https://en.sbu.ac.ir/) in Tehran, the vibrant and historic capital of Iran. 
-My Bachelor's degree is in Robotics Engineering from [Shahrood University of Technology](https://shahroodut.ac.ir/en/), located in the culturally rich city of Shahrood.
+- **PhD in Informatics** – Università della Svizzera italiana, Lugano
+  - Supervised by [Professor Carlo Alberto Furia](https://bugcounting.net/)
+  - Thesis: [Test Case Generation and Fault Localization for Data Science Programs](../publications#test-case-generation-and-fault-localization-for-data-science-programs)
+
+- **Master’s in Software Engineering** – Shahid Beheshti University, Tehran
+
+- **Bachelor’s in Robotics Engineering** – Shahrood University of Technology, Shahrood
 
 ---
