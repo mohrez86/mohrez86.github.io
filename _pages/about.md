@@ -97,8 +97,9 @@ PyTorch's machine vision library.
   - Supervised by [Professor Carlo Alberto Furia](https://bugcounting.net/)
   - Thesis: [Test Case Generation and Fault Localization for Data Science Programs](../publications#test-case-generation-and-fault-localization-for-data-science-programs)
 
-- **Master’s in Software Engineering** – Shahid Beheshti University, Tehran
+- **Master's in Software Engineering** – Shahid Beheshti University, Tehran
+  - Supervised by [Professor Hassan Haghighi](https://facultymembers.sbu.ac.ir/haghighi/)
 
-- **Bachelor’s in Robotics Engineering** – Shahrood University of Technology, Shahrood
+- **Bachelor's in Robotics Engineering** – Shahrood University of Technology, Shahrood
 
 ---
