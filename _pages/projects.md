@@ -13,8 +13,24 @@ nav_order: 4
 This page highlights my research-driven projects. I frequently update it with
 relevant materials as my work progresses.
 
+- [Project: PyLLMut](#project-pyllmut)
 - [Project: FauxPy](#project-fauxpy)
 - [Project: aNNoTest](#project-annotest)
+
+---
+
+## Project: PyLLMut
+
+PyLLMut is a research-based, LLM-driven mutant generator library for Python. It uses the `gpt-4o-mini` model via API to generate mutants for Python modules. Traditional mutation operators often fail to generate mutants for certain program statements, reducing the effectiveness of techniques like Mutation-Based Fault Localization (MBFL). PyLLMut aims to address this issue using LLMs.
+Some of the key features of PyLLMut are is follows:
+- Generates mutants for Python code using LLMs.
+- Currently supports `gpt-4o-mini` via API, with plans to add more models.
+- Can be used in mutation testing, fault localization, automated program repair, and more.
+
+### Key Links
+
+- [Source Code](https://github.com/mohrez86/pyllmut)
+- [Documentation](https://pyllmut.readthedocs.io)
 
 ---
 
