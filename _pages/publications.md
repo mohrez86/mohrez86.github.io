@@ -67,7 +67,7 @@ Mohammad Rezaalipour
 PhD Thesis, Università della Svizzera italiana  
 2024
 
-- [Thesis Link](https://n2t.net/ark:/12658/srd1328869) \| [Announcement](https://www.usi.ch/en/feeds/28574)
+- [Thesis Link](https://n2t.net/ark:/12658/srd1328869) \| [Slides](../files/phd_thesis_2024.pdf) \| [Announcement](https://www.usi.ch/en/feeds/28574)
 
 **Abstract:**
 
