@@ -4,7 +4,7 @@ title: talks
 permalink: /talks/
 # description: My publications by categories in reversed chronological order.
 nav: true
-nav_order: 5
+nav_order: 50
 ---
 
 # Talks

@@ -4,7 +4,7 @@ title: service
 permalink: /service/
 # description:
 nav: true
-nav_order: 6
+nav_order: 60
 ---
 
 # Service
