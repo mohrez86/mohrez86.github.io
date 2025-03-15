@@ -54,7 +54,7 @@ My vision is to implement the methods and techniques I propose
 in my research as open-source software tools.
 
 - I developed [PyLLMut](../projects#project-pyllmut),
-a Python library that uses LLM models as a backend to generate 
+a Python library that uses LLMs to generate 
 mutants for Python programs.
 
 - As part of my PhD research, I developed [FauxPy](../projects#project-fauxpy),
