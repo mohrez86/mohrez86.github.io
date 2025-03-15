@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 # description:
 nav: true
-nav_order: 4
+nav_order: 40
 ---
 
 
@@ -21,11 +21,17 @@ relevant materials as my work progresses.
 
 ## Project: PyLLMut
 
-PyLLMut is a research-based, LLM-driven mutant generator library for Python. It uses the `gpt-4o-mini` model via API to generate mutants for Python modules. Traditional mutation operators often fail to generate mutants for certain program statements, reducing the effectiveness of techniques like Mutation-Based Fault Localization (MBFL). PyLLMut aims to address this issue using LLMs.
-Some of the key features of PyLLMut are is follows:
-- Generates mutants for Python code using LLMs.
-- Currently supports `gpt-4o-mini` via API, with plans to add more models.
-- Can be used in mutation testing, fault localization, automated program repair, and more.
+[PyLLMut](https://pyllmut.readthedocs.io) is a research-based, LLM-driven mutant generator library for Python.
+It uses the `gpt-4o-mini` model via API to generate mutants for Python modules.
+Traditional mutation operators often fail to generate mutants for certain program statements, 
+reducing the effectiveness of techniques like Mutation-Based Fault Localization (MBFL). 
+PyLLMut aims to address this issue using LLMs.
+
+### Key Features
+
+- Uses LLMs to generate mutants for Python code.
+- Currently supports `gpt-4o-mini` via API (more models coming).
+- Designed for research & real-world applications.
 
 ### Key Links
 
@@ -36,7 +42,7 @@ Some of the key features of PyLLMut are is follows:
 
 ## Project: FauxPy
 
-FauxPy is the first multi-family fault localization tool for Python programs,
+[FauxPy](https://fauxpy.readthedocs.io) is the first multi-family fault localization tool for Python programs,
 available as open-source software. The current version of FauxPy supports the
 following fault localization families:
 - Spectrum-Based Fault Localization
@@ -78,21 +84,21 @@ Below is a complete list of projects FauxPy has been tested with:
 
 ### Publications
 
-1. **An empirical study of fault localization in Python programs**
-   *Mohammad Rezaalipour and Carlo A. Furia*
+1. [An empirical study of fault localization in Python programs](../publications#an-empirical-study-of-fault-localization-in-python-programs)  
+   *Mohammad Rezaalipour and Carlo A. Furia*  
    Published in *Empirical Software Engineering*, Volume 29, Issue 4, 2024, Pages 92
-   - DOI: [10.1007/s10664-024-10475-3](https://doi.org/10.1007/s10664-024-10475-3)
+   <!-- - DOI: [10.1007/s10664-024-10475-3](https://doi.org/10.1007/s10664-024-10475-3) -->
 
-2. **FauxPy: A Fault Localization Tool for Python**
-   *Mohammad Rezaalipour and Carlo A. Furia*
+2. [FauxPy: A Fault Localization Tool for Python](../publications#fauxpy-a-fault-localization-tool-for-python)  
+   *Mohammad Rezaalipour and Carlo A. Furia*  
    arXiv Technical Report, 2024
-   - arXiv: [2404.18596](https://arxiv.org/abs/2404.18596)
+   <!-- - arXiv: [2404.18596](https://arxiv.org/abs/2404.18596) -->
 
 ---
 
 ## Project: aNNoTest
 
-aNNoTest is an annotation-based test generation approach and tool specifically designed
+[aNNoTest](https://annotest.readthedocs.io) is an annotation-based test generation approach and tool specifically designed
 for Python-based neural network programs. Using annotations written in aN—a
 concise and descriptive annotation language that we developed—aNNoTest generates
 [Hypothesis](https://hypothesis.readthedocs.io) test templates for functions,
@@ -111,17 +117,18 @@ codebase.
 ### Key Links
 
 - [Source Code](https://github.com/atom-sw/annotest)
+- [Documentation](https://annotest.readthedocs.io)
 - [Dataset of Real-World Neural Network Bugs](https://github.com/atom-sw/annotest-subjects)
 
 ### Publications
 
-1. **aNNoTest: An Annotation-based Test Generation Tool for Neural Network Programs**
-   *Mohammad Rezaalipour and Carlo A. Furia*
+1. [aNNoTest: An Annotation-based Test Generation Tool for Neural Network Programs](../publications#annotest-an-annotation-based-test-generation-tool-for-neural-network-programs)  
+   *Mohammad Rezaalipour and Carlo A. Furia*  
    Proceedings of the 39th IEEE International Conference on Software Maintenance
    and Evolution (ICSME), 2023, Pages 574–579
-   - DOI: [10.1109/ICSME58846.2023.00075](https://doi.org/10.1109/ICSME58846.2023.00075)
+   <!-- - DOI: [10.1109/ICSME58846.2023.00075](https://doi.org/10.1109/ICSME58846.2023.00075) -->
 
-2. **An annotation-based approach for finding bugs in neural network programs**
-   *Mohammad Rezaalipour and Carlo A. Furia*
+2. [An annotation-based approach for finding bugs in neural network programs](../publications#an-annotation-based-approach-for-finding-bugs-in-neural-network-programs)  
+   *Mohammad Rezaalipour and Carlo A. Furia*  
    Published in *Journal of Systems and Software*, Volume 201, 2023, Pages 111669
-   - DOI: [10.1016/j.jss.2023.111669](https://doi.org/10.1016/j.jss.2023.111669)
+   <!-- - DOI: [10.1016/j.jss.2023.111669](https://doi.org/10.1016/j.jss.2023.111669) -->
