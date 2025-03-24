@@ -50,6 +50,10 @@ following fault localization families:
 - Predicate Switching
 - Stack Trace Fault Localization
 
+**Update:** *FauxPy now integrates [PyLLMut](#project-pyllmut), 
+enabling the use of Large Language Models (LLMs) to improve 
+Mutation-Based Fault Localization (MBFL) effectiveness.*
+
 Fault localization refers to automated techniques that help developers identify
 buggy locations within their codebase. These techniques typically produce a
 ranked list of program entities (e.g., statements, functions/methods, files).
