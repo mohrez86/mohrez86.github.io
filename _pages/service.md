@@ -15,6 +15,7 @@ The following is a list of my contributions to the academic community categorize
 
 #### Artifact Evaluation Committee
 
+- [FSE 2025](https://conf.researchr.org/track/fse-2025/fse-2025-artifacts)
 - [OOPSLA 2025](https://2025.splashcon.org/track/splash-2025-oopsla-artifacts)
 - [PLDI 2024](https://pldi24.sigplan.org/track/pldi-2024-pldi-research-artifacts)
 - [SEFM 2023](https://sefm-conference.github.io/2023/artifacts)
