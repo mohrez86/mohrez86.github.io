@@ -23,20 +23,24 @@ social: true # includes social icons at the bottom of the page
 
 ## About Me
 
-My name is Mohammad Rezaalipour, also known as Moe. 
-I am a Postdoctoral Researcher with the 
-[Chair of Software Engineering I](https://www.fim.uni-passau.de/software-engineering-i/lehrstuhlteam),
-at the *University of Passau*,
-located in the picturesque City of Three Rivers.
-I am working under the supervision of 
+I’m Mohammad Rezaalipour, also known as Moe.
+I am a **Postdoctoral Researcher** at the
+[Chair of Software Engineering I](https://www.fim.uni-passau.de/software-engineering-i/lehrstuhlteam)
+at the *University of Passau*, located in the picturesque City of Three Rivers.
+I work under the supervision of
 [Professor Christian Hammer](https://www.fim.uni-passau.de/software-engineering-i/lehrstuhlteam/lehrstuhlinhaber?config_id=a8d16e612076595e5b55aa227262539d&group_id=&module=TemplatePersondetails&range_id=d33789fe6848842635609cb3c3a3ff66&target=289537&username=hammer50&cHash=55277529dcf6fec1edb321830f19affd).
-<!-- You can find [my CV on this page](/cv/). -->
 
 ---
 
 ## Contact
 
-I am mostly active on [LinkedIn](https://www.linkedin.com/in/m-rezaalipour) and use [ResearchGate](https://www.researchgate.net/profile/Mohammad-Rezaalipour-2), [Google Scholar](https://scholar.google.com/citations?user=CuQ9I_YAAAAJ), and [GitHub](https://github.com/mohrez86) for maintaining and sharing my academic and professional activities. Feel free to reach out to me through any of these platforms or via **email**.
+- [Google Scholar](https://scholar.google.com/citations?user=CuQ9I_YAAAAJ)  
+- [DBLP](https://dblp.org/search/publ?q=Mohammad+Rezaalipour)  
+- [ResearchGate](https://www.researchgate.net/profile/Mohammad-Rezaalipour-2)  
+- [GitHub](https://github.com/mohrez86)  
+- [LinkedIn](https://www.linkedin.com/in/m-rezaalipour)  
+- [Bluesky](https://bsky.app/profile/mohrez25.bsky.social)  
+- [X (Twitter)](https://twitter.com/mohrez2019)  
 
 **Email:** mohammad [dot] rezaalipour [at] uni-passau [dot] de
 
@@ -44,50 +48,59 @@ I am mostly active on [LinkedIn](https://www.linkedin.com/in/m-rezaalipour) and 
 
 ## Research Interests
 
-I am particularly interested in: 
 - Software Testing and Analysis
 - Software Fault Localization
 - Automated Program Repair
 - AI4SE and SE4AI
   
-My vision is to implement the methods and techniques I propose 
-in my research as open-source software tools.
+### Open-Source Software Tools  
+*(More details on [the projects page](../projects))*
 
-- I developed [PyLLMut](../projects#project-pyllmut),
-a Python library that uses LLMs to generate 
-mutants for Python programs.
+- **[PyLLMut](../projects#project-pyllmut):**  
+  A Python library that leverages LLMs to generate mutants for Python programs. 
 
-- As part of my PhD research, I developed [FauxPy](../projects#project-fauxpy),
-which, to the best of my knowledge, is the only multi-family fault localization tool
-for Python that is available as open-source software.
-FauxPy has been tested with 135 real-world bugs across 13 widely 
-used Python projects, such as [Keras](https://github.com/keras-team/keras) and
-[Pandas](https://github.com/pandas-dev/pandas).
+- **[FauxPy](../projects#project-fauxpy):**  
+  To the best of my knowledge, the only open-source, multi-family fault localization tool for Python.  
+  Developed during my PhD, FauxPy has been tested on **135 real-world bugs** across **13 widely used Python projects**,  
+  including [Keras](https://github.com/keras-team/keras) and [Pandas](https://github.com/pandas-dev/pandas).  
 
-- I also developed [aNNoTest](../projects#project-annotest)
-as part of my PhD research,
-an annotation-based test generation tool specifically designed for 
-neural network programs.
-aNNoTest has been tested with 19 real-world neural network programs;
-it has found [one bug](https://github.com/pytorch/vision/issues/5209) 
-and
-[one documentation inconsistency](https://github.com/pytorch/vision/issues/6607)
-in [Vision](https://github.com/pytorch/vision),
-PyTorch's machine vision library.
+- **[aNNoTest](../projects#project-annotest):**  
+  An annotation-based test generation tool for neural network programs, developed as part of my PhD research.  
+  aNNoTest has been evaluated on **19 real-world neural network programs**, uncovering:  
+  - **[One bug](https://github.com/pytorch/vision/issues/5209)**  
+  - **[One documentation inconsistency](https://github.com/pytorch/vision/issues/6607)**  
+  both in [Vision](https://github.com/pytorch/vision), PyTorch's computer vision library.  
 
 ---
 
 ## Selected Publications
 
-* **EMSE:** Mohammad Rezaalipour, Carlo A. Furia. (2024). "An Empirical Study of Fault Localization in Python Programs." [https://doi.org/10.1007/s10664-024-10475-3](https://doi.org/10.1007/s10664-024-10475-3).
+*(See the full list on [the publications page](../publications))*
 
-* **ICSME:** Mohammad Rezaalipour, Carlo A. Furia. (2023). "aNNoTest: An Annotation-based Test Generation Tool for Neural Network Programs." [https://doi.org/10.1109/ICSME58846.2023.00075](https://doi.org/10.1109/ICSME58846.2023.00075).
+- **EMSE (2024):**  
+  *An Empirical Study of Fault Localization in Python Programs*  
+  Mohammad Rezaalipour, Carlo A. Furia  
+  [DOI: 10.1007/s10664-024-10475-3](https://doi.org/10.1007/s10664-024-10475-3)  
 
-* **JSS:** Mohammad Rezaalipour, Carlo A. Furia. (2023). "An annotation-based approach for finding bugs in neural network programs." [https://doi.org/10.1016/j.jss.2023.111669](https://doi.org/10.1016/j.jss.2023.111669).
+- **ICSME (2023):**  
+  *aNNoTest: An Annotation-Based Test Generation Tool for Neural Network Programs*  
+  Mohammad Rezaalipour, Carlo A. Furia  
+  [DOI: 10.1109/ICSME58846.2023.00075](https://doi.org/10.1109/ICSME58846.2023.00075)  
 
-* **TC:** Morteza Rezaalipour, Mohammad Rezaalipour, Masoud Dehyadegari, Mahdi Nazm Bojnordi. (2020). "AxMAP: Making Approximate Adders Aware of Input Patterns." [https://doi.org/10.1109/TC.2020.2968905](https://doi.org/10.1109/TC.2020.2968905).
+- **JSS (2023):**  
+  *An Annotation-Based Approach for Finding Bugs in Neural Network Programs*  
+  Mohammad Rezaalipour, Carlo A. Furia  
+  [DOI: 10.1016/j.jss.2023.111669](https://doi.org/10.1016/j.jss.2023.111669)  
 
-* **FSEN:** Babak Bagheri, Mohammad Rezaalipour, Mojtaba Vahidi-Asl. (2019). "An Approach to Generate Effective Fault Localization Methods for Programs." [https://doi.org/10.1007/978-3-030-31517-7_17](https://doi.org/10.1007/978-3-030-31517-7_17).
+- **IEEE Transactions on Computers (2020):**  
+  *AxMAP: Making Approximate Adders Aware of Input Patterns*  
+  Morteza Rezaalipour, Mohammad Rezaalipour, Masoud Dehyadegari, Mahdi Nazm Bojnordi  
+  [DOI: 10.1109/TC.2020.2968905](https://doi.org/10.1109/TC.2020.2968905)  
+
+- **FSEN (2019):**  
+  *An Approach to Generate Effective Fault Localization Methods for Programs*  
+  Babak Bagheri, Mohammad Rezaalipour, Mojtaba Vahidi-Asl  
+  [DOI: 10.1007/978-3-030-31517-7_17](https://doi.org/10.1007/978-3-030-31517-7_17)
 
 ---
 
