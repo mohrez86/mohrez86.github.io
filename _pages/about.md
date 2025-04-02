@@ -32,7 +32,7 @@ I work under the supervision of
 
 ---
 
-## Contact
+## How to Reach Me
 
 - [Google Scholar](https://scholar.google.com/citations?user=CuQ9I_YAAAAJ)  
 - [DBLP](https://dblp.org/search/publ?q=Mohammad+Rezaalipour)  
