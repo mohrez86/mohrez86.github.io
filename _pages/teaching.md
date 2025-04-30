@@ -26,12 +26,12 @@ Below, you can find my teaching experience, both as a teaching assistant and as 
 
 ## University of Passau, Passau, Germany
 
-Currently, I am one of the lecturers for the following course at the [University of Passau](https://www.uni-passau.de), along with Professor Christian Hammer.
+I was one of the lecturers for the following course at the [University of Passau](https://www.uni-passau.de), along with Professor Christian Hammer.
 
 ### Compiler Construction Lab  
 - [Winter 2024/2025](https://www.fim.uni-passau.de/software-engineering-i/lehrstuhlteam/personendetails?config_id=232ee5ad516ac92bf590f99ac8c2baa8&module=TemplateLecturedetails&range_id=d33789fe6848842635609cb3c3a3ff66&seminar_id=55f222b1ddb736dbee2ec627faf45279&cHash=f4c6375dd28bbc0be140eccbb4abe7f4)
 
-In this course, students are tasked with implementing a compiler in Java for the ChocoPy programming language.
+In our Compiler Construction Lab, students implement a compiler in Java for the ChocoPy programming language.
 ChocoPy is a simplified, statically typed dialect of Python, specifically designed for compiler construction courses. It supports many interesting features from Python, such as classes, inheritance, nested functions, and lists.
 For more information about this programming language, visit [ChocoPy.org](https://ChocoPy.org).
 
