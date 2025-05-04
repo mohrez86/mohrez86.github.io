@@ -9,7 +9,7 @@ nav_order: 60
 
 # Service
 
-The following is a list of my contributions to the academic community categorized by role and in reverese chronological order.
+A list of my contributions to the academic community:
 
 ---
 
@@ -27,3 +27,9 @@ The following is a list of my contributions to the academic community categorize
 
 - [iFM 2022](https://ifm22.si.usi.ch)
 - [iFM 2020](https://ifm20.si.usi.ch)
+
+---
+
+#### Journal Reviewer
+
+- [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
