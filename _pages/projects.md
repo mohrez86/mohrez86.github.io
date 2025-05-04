@@ -10,7 +10,8 @@ nav_order: 40
 
 # Projects
 
-This page highlights my research-driven projects. I frequently update it with
+This page highlights my research-driven projects.
+I frequently update this page with
 relevant materials as my work progresses.
 
 - [Project: PyLLMut](#project-pyllmut)

@@ -9,7 +9,7 @@ nav_order: 30
 
 # Teaching
 
-Below, you can find my teaching experience, both as a teaching assistant and as a lecturer.
+My teaching experience, both as a teaching assistant and as a lecturer:
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 

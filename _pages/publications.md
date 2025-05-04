@@ -10,6 +10,7 @@ nav_order: 20
 # Publications
 
 The following is a list of my publications categorized in reverse chronological order.
+
 In the details section, you can also find additional materials for each study,
 such as replication packages or tools I developed as part of each study.
 
