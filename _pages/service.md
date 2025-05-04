@@ -13,6 +13,12 @@ A list of my contributions to the academic community:
 
 ---
 
+#### Journal Reviewer
+
+- [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
+
+---
+
 #### Artifact Evaluation Committee
 
 - [FSE 2025](https://conf.researchr.org/track/fse-2025/fse-2025-artifacts)
@@ -27,9 +33,3 @@ A list of my contributions to the academic community:
 
 - [iFM 2022](https://ifm22.si.usi.ch)
 - [iFM 2020](https://ifm20.si.usi.ch)
-
----
-
-#### Journal Reviewer
-
-- [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
