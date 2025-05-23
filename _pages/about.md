@@ -40,7 +40,8 @@ I work under the supervision of
 - [ORCID](https://orcid.org/0000-0003-4522-7279)  
 - [GitHub](https://github.com/mohrez86)  
 - [LinkedIn](https://www.linkedin.com/in/m-rezaalipour)  
-- [Bluesky](https://bsky.app/profile/mohrez25.bsky.social)  
+- [Bluesky](https://bsky.app/profile/mohrez25.bsky.social)
+- [Mastodon](https://mastodon.acm.org/@mohrez) 
 - [X (Twitter)](https://twitter.com/mohrez2019)  
 
 **Email:** mohammad [dot] rezaalipour [at] uni-passau [dot] de
