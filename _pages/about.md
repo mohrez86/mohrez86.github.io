@@ -28,7 +28,7 @@ I am a **Postdoctoral Researcher** at the
 [Chair of Software Engineering I](https://www.fim.uni-passau.de/software-engineering-i/lehrstuhlteam)
 at the *University of Passau*, located in the picturesque City of Three Rivers.
 I work under the supervision of
-[Professor Christian Hammer](https://www.fim.uni-passau.de/software-engineering-i/lehrstuhlteam/lehrstuhlinhaber?config_id=a8d16e612076595e5b55aa227262539d&group_id=&module=TemplatePersondetails&range_id=d33789fe6848842635609cb3c3a3ff66&target=289537&username=hammer50&cHash=55277529dcf6fec1edb321830f19affd).
+[Professor Christian Hammer](https://www.fim.uni-passau.de/software-engineering-i/lehrstuhlteam/lehrstuhlinhaber).
 
 ---
 
@@ -44,33 +44,30 @@ I work under the supervision of
 - [Mastodon](https://mastodon.acm.org/@mohrez) 
 - [X (Twitter)](https://twitter.com/mohrez2019)  
 
-**Email:** mohammad [dot] rezaalipour [at] uni-passau [dot] de
+**Email:** rezaalipour [dot] mohammad [at] gmail [dot] com  
+**Academic Email:** mohammad [dot] rezaalipour [at] uni-passau [dot] de  
 
 ---
 
 ## Research Interests
 
-- Software Testing and Analysis
-- Software Fault Localization
-- Automated Program Repair
-- AI4SE and SE4AI
-  
-### Open-Source Software Tools  
-*(More details on [the projects page](../projects))*
+I'm mainly interested in software testing, debugging, and AI for software engineering.
+I have also developed some open-source tools (more details on [the projects page](../projects)):
 
 - **[PyLLMut](../projects#project-pyllmut):**  
   A Python library that leverages LLMs to generate mutants for Python programs. 
 
 - **[FauxPy](../projects#project-fauxpy):**  
   To the best of my knowledge, the only open-source, multi-family fault localization tool for Python.  
-  Developed during my PhD, FauxPy has been tested on **135 real-world bugs** across **13 widely used Python projects**,  
+  Developed during my PhD, FauxPy has been tested on **135 real-world bugs** across **13 widely used Python projects**,
   including [Keras](https://github.com/keras-team/keras) and [Pandas](https://github.com/pandas-dev/pandas).  
 
 - **[aNNoTest](../projects#project-annotest):**  
-  An annotation-based test generation tool for neural network programs, developed as part of my PhD research.  
-  aNNoTest has been evaluated on **19 real-world neural network programs**, uncovering:  
+  An annotation-based test generation tool for neural network programs, developed as part of my PhD research.
+  aNNoTest has been evaluated on **19 real-world neural network programs**, revealing:  
   - **[One bug](https://github.com/pytorch/vision/issues/5209)**  
   - **[One documentation inconsistency](https://github.com/pytorch/vision/issues/6607)**  
+  
   both in [Vision](https://github.com/pytorch/vision), PyTorch's computer vision library.  
 
 ---
@@ -109,7 +106,7 @@ I work under the supervision of
 ## Education
 
 - **PhD in Informatics** – Università della Svizzera italiana, Lugano
-  - Supervised by [Professor Carlo Alberto Furia](https://bugcounting.net/)
+  - Supervised by [Professor Carlo A. Furia](https://bugcounting.net/)
   - Thesis: [Test Case Generation and Fault Localization for Data Science Programs](../publications#test-case-generation-and-fault-localization-for-data-science-programs)
 
 - **Master's in Software Engineering** – Shahid Beheshti University, Tehran
