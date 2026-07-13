@@ -19,6 +19,12 @@ A list of my contributions to the academic community:
 
 ---
 
+#### Conference Reviewer
+
+- [ECOOP 2026](https://2026.ecoop.org) (Subreviewer)
+
+---
+
 #### Artifact Evaluation Committee
 
 - [FSE 2025](https://conf.researchr.org/track/fse-2025/fse-2025-artifacts)
