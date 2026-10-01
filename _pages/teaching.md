@@ -13,11 +13,12 @@ My teaching experience, both as a teaching assistant and as a lecturer:
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-- [University of Passau, Passau, Germany](#university-of-passau-passau-germany)
+- [University of Passau](#university-of-passau)
+   * [Tutor, Compiler Construction](#compiler-construction)
    * [Co-Lecturer, Program Repair](#program-repair)
    * [Co-Lecturer, Programming Paradigms](#programming-paradigms)
    * [Co-Lecturer, Compiler Construction Lab](#compiler-construction-lab)
-- [USI, Lugano, Switzerland](#usi-lugano-switzerland)
+- [USI, Lugano](#usi-lugano)
    * [TA, Programming Fundamentals 1 (five times)](#programming-fundamentals-1)
    * [TA, Software Atelier 4: Software Engineering Project (twice)](#software-atelier-4-software-engineering-project)
    * [TA, Compiler Construction](#compiler-construction-1)
@@ -26,20 +27,26 @@ My teaching experience, both as a teaching assistant and as a lecturer:
 
 ---
 
-## University of Passau, Passau, Germany
+## University of Passau
 
-I was a co-lecturers for the following courses at the [University of Passau](https://www.uni-passau.de), along with Professor Christian Hammer.
+I was a co-lecturer/tutor for the following courses at the [University of Passau](https://www.uni-passau.de).
+
+### Compiler Construction
+
+- Summer 2026: [Tutorial](https://www.fim.uni-passau.de/software-engineering-i/lehrveranstaltungen/veranstaltungsdetails?config_id=232ee5ad516ac92bf590f99ac8c2baa8&module=TemplateLecturedetails&range_id=d33789fe6848842635609cb3c3a3ff66&seminar_id=06bd8d47dbc6a4f121a05b8a8e247fc3&target=289064&cHash=36469ef1038df0d9d0faf95bd2167832)
+
+This intensive course covers the core phases of modern compiler design. Key topics include lexical analysis (lexing), LL and LR parsing techniques, semantic analysis, static analysis, code optimization strategies, intermediate representations, code generation, and register allocation.
 
 ### Program Repair
+
+- Winter 2025/2026: 
+[Lecture](https://www.fim.uni-passau.de/software-engineering-i/lehrveranstaltungen/veranstaltungsdetails?config_id=232ee5ad516ac92bf590f99ac8c2baa8&module=TemplateLecturedetails&range_id=d33789fe6848842635609cb3c3a3ff66&seminar_id=8f13a41f5d6fdaf5c081d76144155bde&cHash=2ee98348d2970693a1193624ed6788d0) 
+| [Tutorial](https://www.fim.uni-passau.de/software-engineering-i/lehrveranstaltungen/veranstaltungsdetails?config_id=232ee5ad516ac92bf590f99ac8c2baa8&module=TemplateLecturedetails&range_id=d33789fe6848842635609cb3c3a3ff66&seminar_id=cf664571dcedc1f3f483ff796b6d4cf1&cHash=8d3bf0a8e5d7aa8f5b943189a9bc85b5)
 
 The course covers the fundamental principles of
 Automated Program Repair (APR).
 It combines seminar-style student presentations discussing research papers from top-tier venues with a practical project
 where students implement an APR technique for Python and Java.
-
-- Winter 2025/2026: 
-[Lecture](https://www.fim.uni-passau.de/software-engineering-i/lehrveranstaltungen/veranstaltungsdetails?config_id=232ee5ad516ac92bf590f99ac8c2baa8&module=TemplateLecturedetails&range_id=d33789fe6848842635609cb3c3a3ff66&seminar_id=8f13a41f5d6fdaf5c081d76144155bde&cHash=2ee98348d2970693a1193624ed6788d0) 
-| [Tutorial](https://www.fim.uni-passau.de/software-engineering-i/lehrveranstaltungen/veranstaltungsdetails?config_id=232ee5ad516ac92bf590f99ac8c2baa8&module=TemplateLecturedetails&range_id=d33789fe6848842635609cb3c3a3ff66&seminar_id=cf664571dcedc1f3f483ff796b6d4cf1&cHash=8d3bf0a8e5d7aa8f5b943189a9bc85b5)
 
 ### Programming Paradigms
 
@@ -61,7 +68,7 @@ In this course, students implement a compiler in Java for
 
 ---
 
-## USI, Lugano, Switzerland
+## USI, Lugano
 
 I was a TA for three different courses over eight semesters at [USI Università della Svizzera italiana](https://www.usi.ch) while doing my PhD.
 
